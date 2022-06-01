@@ -1,0 +1,281 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Distribution Needed for Hypothesis Testing</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m62295</md:content-id>
+  <md:title>Distribution Needed for Hypothesis Testing</md:title>
+  <md:abstract/>
+  <md:uuid>386cc13e-aa9b-4d35-8189-6b5bd3de9965</md:uuid>
+</metadata>
+
+<content>
+  <para id="fs-idm27402752">Earlier in the course, we discussed sampling distributions. <emphasis>Particular distributions are associated with hypothesis testing.</emphasis> We perform tests of a population mean using a <term>normal distribution</term> or a <term>Student's t-distribution</term>. (Remember, use a Student's t-distribution when the population <term>standard deviation</term> is unknown and the sampling distribution of the sample mean is approximately normal.) We perform tests of a population proportion using a normal distribution (usually <m:math><m:mi>n</m:mi></m:math>, the sample size, is large).<newline/><newline/></para><para id="element-418">If you are testing a <term>single population mean</term>, the distribution for the test is for <emphasis>means</emphasis>:<newline/><newline/></para><para id="element-363"><m:math>
+      <m:mover accent="true">
+        <m:mi>X</m:mi>
+        <m:mo>¯</m:mo>
+      </m:mover></m:math>
+      ~ <m:math><m:mi>N</m:mi><m:mo>(</m:mo>
+    
+          <m:msub>
+            <m:mi>μ</m:mi>
+            <m:mi>x</m:mi>
+          </m:msub>
+          <m:mo>,</m:mo><m:mfrac>
+            <m:mrow>
+              <m:msub>
+                <m:mi>σ</m:mi>
+                <m:mi>x</m:mi>
+              </m:msub>
+              
+            </m:mrow>
+            <m:mrow>
+              <m:msqrt>
+                <m:mi>n</m:mi>
+              </m:msqrt>
+              
+            </m:mrow>
+          </m:mfrac>
+          
+        
+        <m:mo>)</m:mo>
+   
+  </m:math>, when <m:math><m:msub><m:mi>σ</m:mi><m:mi>x</m:mi></m:msub></m:math> is known, or <m:math>
+ <m:mrow>
+  <m:msub>
+   <m:mi>t</m:mi>
+   <m:mrow>
+    <m:mi>d</m:mi><m:mi>f</m:mi>
+   </m:mrow>
+  </m:msub>
+  
+ </m:mrow>
+</m:math>, when <m:math><m:msub><m:mi>σ</m:mi><m:mi>x</m:mi></m:msub></m:math> is unknown<newline/><newline/></para><para id="element-838">The population parameter is <m:math><m:mi>μ</m:mi></m:math>. <newline/><newline/>The estimated value (point estimate) for <m:math><m:mi>μ</m:mi></m:math> is <m:math>
+    <m:mover accent="true">
+      <m:mi>x</m:mi>
+      <m:mo>¯</m:mo>
+    </m:mover>
+  </m:math>, the sample mean.<newline/><newline/></para><para id="element-245">If you are testing a <term>single population proportion</term>, the distribution for the test is for
+  proportions or percentages:<newline/><newline/></para><para id="element-851"><m:math>
+      <m:mover accent="true">
+        <m:mi>P</m:mi>
+        <m:mo>^</m:mo>
+      </m:mover></m:math>
+      ~ <m:math><m:mi>N</m:mi><m:mo>(</m:mo>
+        
+          <m:mi>p</m:mi><m:mo>,</m:mo><m:msqrt>
+            <m:mrow>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>p</m:mi><m:mo>⋅</m:mo><m:mi>q</m:mi>
+                </m:mrow>
+                <m:mi>n</m:mi>
+              </m:mfrac>
+              
+            </m:mrow>
+          </m:msqrt>
+          
+       
+        <m:mo>)</m:mo>
+   
+  </m:math><newline/><newline/></para><para id="element-128">The population parameter is <m:math><m:mi>p</m:mi></m:math>. <newline/><newline/>The estimated value (point estimate) for <m:math><m:mi>p</m:mi></m:math> is <m:math>
+      <m:mover accent="true">
+        <m:mi>p</m:mi>
+        <m:mo>^</m:mo>
+      </m:mover></m:math>, the sample proportion. <newline/><newline/><m:math>
+      <m:mover accent="true">
+        <m:mi>p</m:mi>
+        <m:mo>^</m:mo>
+      </m:mover></m:math> = <m:math>
+      <m:mrow>
+        <m:mfrac>
+          <m:mi>x</m:mi>
+          <m:mi>n</m:mi>
+        </m:mfrac>
+      </m:mrow>
+    </m:math> where <m:math><m:mi>x</m:mi></m:math> is the number of successes in the sample and <m:math><m:mi>n</m:mi></m:math> is the sample size.</para><section id="fs-idp38268576"><title>Assumptions</title><para id="fs-idp18826944">When you perform a <term>hypothesis test</term> <emphasis>of a single population mean <m:math><m:mi>μ</m:mi></m:math></emphasis> using a
+<term>Student's t-distribution</term> (often called a <m:math><m:mi>t</m:mi></m:math>-test), there are fundamental assumptions that need to be met in order for the test to be valid. Your data should be a <term>simple random sample</term> that comes from a population that is approximately <term>normally distributed</term>. You use the sample <term>standard deviation</term> to approximate the population standard deviation. (Note that if the sample size is sufficiently large (at least 30), a <m:math><m:mi>t</m:mi></m:math>-test will work even if the population is not approximately normally distributed).<newline/><newline/></para><para id="element-849">When you perform a <emphasis>hypothesis test of a single population mean <m:math><m:mi>μ</m:mi></m:math></emphasis> using a
+normal distribution (often called a <m:math><m:mi>z</m:mi></m:math>-test), you take a simple random sample from the population. The population you are testing is normally distributed or your sample size is sufficiently large (at least 30). You know the value of the population standard deviation which, in reality, is rarely known.<newline/><newline/></para><para id="element-395">When you perform a <emphasis>hypothesis test of a single population proportion <m:math><m:mi>p</m:mi></m:math></emphasis>, you take a simple random sample from the population. You must meet the conditions for a <term>binomial distribution</term> which are: there are a certain number <m:math><m:mi>n</m:mi></m:math> of independent trials, the outcomes of any trial are success or failure, and each trial has the same probability of a success <m:math><m:mi>p</m:mi></m:math>. The shape of the binomial distribution needs to be similar to the shape of the normal distribution. To ensure this, the quantities <m:math><m:mi>n</m:mi><m:mi>p</m:mi></m:math> (the expected number of successes, assuming the null hypothesis is true) and <m:math><m:mi>n</m:mi><m:mi>q</m:mi></m:math> (the expected number of failures, assuming the null hypothesis is true) must both be at least 10 (<m:math><m:mi>n</m:mi><m:mi>p</m:mi></m:math> ≥ 10 and <m:math><m:mi>n</m:mi><m:mi>q</m:mi></m:math> ≥ 10). Then the binomial distribution of a sample (estimated) proportion can be approximated by the normal distribution with <m:math><m:mi>μ</m:mi></m:math> = <m:math><m:mi>p</m:mi></m:math> and <m:math>
+    <m:mrow>
+      <m:mi>σ</m:mi><m:mo>=</m:mo><m:msqrt>
+        <m:mrow>
+          <m:mfrac>
+            <m:mrow>
+              <m:mi>p</m:mi><m:mi>q</m:mi>
+            </m:mrow>
+            <m:mi>n</m:mi>
+          </m:mfrac>
+          
+        </m:mrow>
+      </m:msqrt>
+      
+    </m:mrow>
+  </m:math>.
+
+Remember that <m:math><m:mi>q</m:mi></m:math> = 1 – <m:math><m:mi>p</m:mi></m:math>.</para></section><section id="eip-952" class="summary">
+  <title>Section Review</title><para id="eip-948">In order for a hypothesis test’s results to be generalized to a population, certain requirements must be satisfied. <newline/><newline/></para><para id="eip-996">When testing for a single population mean:</para>
+  <list id="eip-idp106869104" mark-suffix="." list-type="enumerated" number-style="arabic"><item>A Student's t-test should be used if the data come from a simple, random sample and the population is approximately normally distributed, or the sample size is large (at least 30), with an unknown standard deviation.</item>
+    <item>The normal test will work if the data come from a simple, random sample and the population
+      is approximately normally distributed, or the sample size is large (at least 30), with a known standard
+      deviation.</item>
+  </list><para id="fs-idp12045392">When testing a single population proportion use a normal test for a single population proportion if the data comes from a simple, random sample, fill the requirements for a binomial distribution, and the mean number of success and the mean number of failures satisfy the conditions: <m:math><m:mi>n</m:mi><m:mi>p</m:mi></m:math> ≥ 10 and <m:math><m:mi>n</m:mi><m:mi>q</m:mi></m:math> ≥ 10 where <m:math><m:mi>n</m:mi></m:math> is the sample size, <m:math><m:mi>p</m:mi></m:math> is the probability of a success, and <m:math><m:mi>q</m:mi></m:math> is the probability of a failure.</para></section>
+
+
+  <section id="eip-772" class="formula-review">
+    <title>Formula Review</title>
+  <list id="element-254" list-type="bulleted"><title>Types of Hypothesis Tests</title><item>Single population mean, <emphasis>known</emphasis> population standard deviation: <emphasis>Normal
+    test</emphasis>.</item>
+    <item>Single population mean, <emphasis>unknown</emphasis> population standard deviation: <emphasis>Student's t-test</emphasis>.</item>
+    <item>Single population proportion: <emphasis>Normal test</emphasis>.</item>
+      <item>For a <emphasis>single population mean</emphasis>, we may use a normal distribution with the following mean and standard deviation. Means: <m:math>
+        
+          <m:mi>μ</m:mi><m:mo>=</m:mo><m:msub>
+            <m:mi>μ</m:mi>
+            
+              <m:mi>x</m:mi>
+              
+            </m:msub>
+        
+      </m:math> and <m:math>
+       
+          
+            <m:mi>σ</m:mi>
+
+          <m:mo>=</m:mo><m:mfrac>
+            <m:mrow>
+              <m:msub>
+                <m:mi>σ</m:mi>
+                <m:mi>x</m:mi>
+              </m:msub>
+              
+            </m:mrow>
+            <m:mrow>
+              <m:msqrt>
+                <m:mi>n</m:mi>
+              </m:msqrt>
+              
+            </m:mrow>
+          </m:mfrac>
+          
+       
+      </m:math></item>
+      <item>A <emphasis>single population proportion</emphasis>, we may use a normal distribution with the following mean and standard deviation. Proportions:  <m:math><m:mi>μ</m:mi><m:mo>=</m:mo></m:math> <emphasis><m:math><m:mi>p</m:mi></m:math></emphasis> and <m:math>
+        <m:mrow>
+          <m:mi>σ</m:mi><m:mo>=</m:mo><m:msqrt>
+            <m:mrow>
+              <m:mfrac>
+                <m:mrow>
+                  <m:mi>p</m:mi><m:mi>q</m:mi>
+                </m:mrow>
+                <m:mi>n</m:mi>
+              </m:mfrac>
+              
+            </m:mrow>
+          </m:msqrt>
+          
+        </m:mrow>
+      </m:math>. </item>
+    </list></section>
+
+
+<section id="eip-496" class="practice">
+  <exercise id="eip-176"><problem id="eip-548">
+  <para id="eip-434">Which two distributions can you use for hypothesis testing for this chapter?</para>
+</problem>
+
+<solution id="eip-482">
+  <para id="eip-665">A normal distribution or a Student’s t-distribution</para></solution>
+</exercise><exercise id="eip-492"><problem id="eip-819">
+  <para id="eip-696">Which distribution do you use when you are testing a population mean and the standard deviation is known? Assume the sample size is large.
+  </para></problem></exercise><exercise id="eip-579">
+    <problem id="eip-177">
+  <para id="eip-756">Which distribution do you use when the standard deviation is not known and you are testing one population mean? Assume the sample size is large.</para></problem>
+
+<solution id="eip-957">
+  <para id="eip-853">Use a Student’s t-distribution</para></solution>
+  </exercise>
+  <exercise id="eip-692"><problem id="eip-962">
+  <para id="eip-204">A sample mean is 12.8, and the sample standard deviation is two. The sample size is 20. What distribution should you use to perform a hypothesis test? Assume the underlying population is normal.</para></problem>  </exercise><exercise id="eip-917">
+    <problem id="eip-265">
+  <para id="eip-995">A population has a standard deviation of five. The sample mean is 24, and the sample size is 108. What distribution should you use to perform a hypothesis test?</para></problem>
+
+<solution id="eip-953">
+  <para id="eip-267">A normal distribution for a single population mean</para></solution>
+  </exercise>
+  <exercise id="eip-138"><problem id="eip-208">
+  <para id="eip-449">It is thought that 42% of respondents in a taste test would prefer Brand <emphasis effect="italics">A</emphasis>. In a particular test of 100 people, 39% preferred Brand <emphasis effect="italics">A</emphasis>. What distribution should you use to perform a hypothesis test?</para>
+</problem></exercise><exercise id="eip-637"><problem id="eip-74">
+  <para id="eip-239">You are performing a hypothesis test of a single population mean using a Student's t-distribution. What must you assume about the distribution of the data?</para></problem>
+
+<solution id="eip-520">
+  <para id="eip-20">It must be approximately normally distributed.</para>
+</solution>
+</exercise>
+  <exercise id="eip-315"><problem id="eip-505">
+  <para id="eip-972">You are performing a hypothesis test of a single population mean using a Student’s t-distribution. The data are not from a simple random sample. Can you accurately perform the hypothesis test?</para></problem></exercise><exercise id="eip-254">
+    <problem id="eip-543">
+      <para id="eip-372">You are performing a hypothesis test of a single population proportion. What must be true about the quantities of <m:math><m:mi>n</m:mi><m:mi>p</m:mi></m:math> and <m:math><m:mi>n</m:mi><m:mi>q</m:mi></m:math>?</para></problem>
+
+<solution id="eip-509">
+  <para id="eip-285">They must both be at least ten.</para></solution>
+  </exercise><exercise id="eip-354"><problem id="eip-633">
+  <para id="eip-457">You are performing a hypothesis test of a single population proportion. You find out that <m:math><m:mi>n</m:mi><m:mi>p</m:mi></m:math> is less than ten. What must you do to be able to perform a valid hypothesis test?</para></problem></exercise><exercise id="fs-idp17688688">
+    <problem id="eip-577">
+      <para id="eip-129">You are performing a hypothesis test of a single population proportion. The data come from which distribution?</para>
+</problem>
+
+<solution id="eip-979">
+  <para id="eip-676">binomial distribution<newline/></para></solution>
+</exercise>
+
+</section>
+
+<section id="fs-idm173512608" class="free-response">
+<title>Homework</title>
+
+<exercise id="fs-idm140519760">
+  <problem id="fs-idm140519632"><para id="fs-idp12923264">It is believed that Lake Tahoe Community College (LTCC) Intermediate Algebra students get less than seven hours of sleep per night, on average. A survey of 22 LTCC Intermediate Algebra students generated a mean of 7.24 hours with a standard deviation of 1.93 hours. At a level of significance of 5%, do LTCC Intermediate Algebra students get less than seven hours of sleep per night, on average? The distribution to be used for this test is <m:math>
+    <m:mrow>
+   <m:mover accent="true">
+    <m:mi>X</m:mi>
+    <m:mo stretchy="true">¯</m:mo>
+   </m:mover>
+   </m:mrow>
+
+    
+  </m:math> ~ ________________</para><list id="fs-idm141858480" list-type="enumerated" number-style="lower-alpha"><item><m:math>
+        <m:mrow>
+          <m:mi>N</m:mi><m:mo stretchy="false">(</m:mo><m:mn>7.24</m:mn><m:mo>,</m:mo><m:mfrac>
+            <m:mrow>
+              <m:mn>1.93</m:mn>
+            </m:mrow>
+            <m:mrow>
+              <m:msqrt>
+                <m:mrow>
+                  <m:mn>22</m:mn>
+                </m:mrow>
+              </m:msqrt>
+              
+            </m:mrow>
+          </m:mfrac>
+          <m:mo stretchy="false">)</m:mo>
+        </m:mrow>
+      </m:math></item>
+      <item><m:math>
+        <m:mrow>
+          <m:mi>N</m:mi><m:mo stretchy="false">(</m:mo><m:mn>7.24</m:mn><m:mo>,</m:mo><m:mn>1.93</m:mn><m:mo stretchy="false">)</m:mo>
+        </m:mrow>
+      </m:math></item>
+      <item><m:math><m:mi>t</m:mi></m:math><sub>22</sub></item>
+      <item><m:math><m:mi>t</m:mi></m:math><sub>21</sub></item>
+    </list></problem>
+
+<solution id="fs-idp8543664">
+<para id="fs-idm76617584">d</para>
+</solution>
+</exercise>
+
+</section>
+
+</content>
+
+
+</document>
