@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" class="lab">
+  <title>Lab 3: Descriptive Statistics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m16299</md:content-id>
+  <md:title>Lab 3: Descriptive Statistics</md:title>
+  <md:abstract/>
+  <md:uuid>ecf7a575-e866-4eaf-8925-0037d6b96aa3</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="Descriptive Statistics- Lab I.doc" strength="3">Download handout (.doc)</link>
+      <link url="Descriptive Statistics- Lab I.pdf" strength="3">Download handout (.pdf)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <para id="element-674">Class Time: </para><para id="element-635">Names: </para><section id="element-300"><title>Student Learning Outcomes</title><list id="element-397" list-type="bulleted"><item>The student will construct a histogram and a box plot.</item>
+<item>The student will calculate univariate statistics.</item>
+<item>The student will examine the graphs to interpret what the data implies.</item></list></section><section id="element-722"><title>Collect the Data</title>
+<para id="element-324">Record the number of pairs of shoes you own:</para>
+
+<list id="listhioaasdfadsf" list-type="enumerated"><item>Randomly survey 30 classmates.  Record their values.
+<table id="element-30" summary="This is a blank table with 30 cells for recording values.">
+
+<title>Survey Results</title>
+<tgroup cols="5"><tbody>
+  <row>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+  </row>
+  <row>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+  </row>
+  <row>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+  </row>
+  <row>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+  </row>
+  <row>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+  </row>
+  <row>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+    <entry>_____</entry>
+  </row>
+</tbody>
+
+</tgroup>
+</table></item>
+
+<item>Construct a histogram. Make 5-6 intervals. Sketch the graph using a ruler and pencil. Scale the axes.
+<figure id="element-2356">
+<media id="id7552200" alt="A blank graph template for use with this problem."><image src="../../media/image2.PNG" mime-type="image/png" print-width="3.5in"/></media>
+</figure>
+</item>
+
+<item>Calculate the following:
+  <list id="list567" list-type="bulleted"><item><m:math>
+<m:apply>
+  <m:conjugate/>
+  <m:ci>x</m:ci>
+</m:apply></m:math> =
+</item>
+    <item><m:math><m:mi>s</m:mi></m:math> = </item>
+  
+</list>
+</item>
+
+<item>Are the data discrete or continuous? How do you know?</item>
+
+<item>Describe the shape of the histogram. Use complete sentences.</item>
+
+<item>Are there any potential outliers? Which value(s) is (are) it (they)? Use a formula to check the end values to determine if they are potential outliers.
+</item>
+
+</list></section><section id="element-872"><title>Analyze the Data</title><list id="list6798" list-type="enumerated" mark-suffix=".">
+
+<item>Determine the following:
+ <list id="nestlist1" list-type="bulleted">
+   <item>Minimum value = </item>
+   <item>Median = </item>
+   <item>Maximum value = </item>
+   <item>First quartile = </item>
+   <item>Third quartile = </item>
+   <item>IQR = </item>
+</list>
+</item>
+
+<item>Construct a box plot of data</item>
+
+<item>What does the shape of the box plot imply about the concentration of data? Use complete sentences.</item>
+
+<item>Using the box plot, how can you determine if there are potential outliers?</item>
+
+<item>How does the standard deviation help you to determine concentration of the data and whether or not there are potential outliers?</item>
+
+<item>What does the IQR represent in this problem?</item>
+
+<item>Show your work to find the value that is 1.5 standard deviations:
+ <list id="nestlist2" list-type="labeled-item" mark-suffix="."> 
+  <item><label>a</label>Above the mean:</item>
+  <item><label>b</label>Below the mean:</item>
+ </list>
+</item>
+</list></section>
+  </content>
+</document>

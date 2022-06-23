@@ -1,0 +1,151 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12133</md:content-id>
+    <md:title>Ed's Intro to Prob and Stats</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>6248e945-af72-4e1c-943c-7eb1c0f15c65</md:uuid>
+<md:slug>ed-s-intro-to-prob-and-stats</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Sampling and Data</md:title>
+      <col:content>
+        <col:module document="m46913"/>
+        <col:module document="m62205"/>
+        <col:module document="m62138"/>
+        <col:module document="m62206"/>
+        <col:module document="m62207"/>
+        <col:module document="m50252"/>
+        <col:module document="m50243"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Descriptive Statistics</md:title>
+      <col:content>
+        <col:module document="m46925"/>
+        <col:module document="m62211"/>
+        <col:module document="m62142"/>
+        <col:module document="m62212"/>
+        <col:module document="m62144"/>
+        <col:module document="m62213"/>
+        <col:module document="m62214"/>
+        <col:module document="m62145"/>
+        <col:module document="m16299"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Probability Topics</md:title>
+      <col:content>
+        <col:module document="m62226"/>
+        <col:module document="m62146"/>
+        <col:module document="m62147"/>
+        <col:module document="m62215"/>
+        <col:module document="m62148"/>
+        <col:module document="m62216"/>
+        <col:module document="m50256"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Discrete Random Variables</md:title>
+      <col:content>
+        <col:module document="m62225"/>
+        <col:module document="m62149"/>
+        <col:module document="m62150"/>
+        <col:module document="m62227"/>
+        <col:module document="m62523"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Continuous Random Variables</md:title>
+      <col:content>
+        <col:module document="m62221"/>
+        <col:module document="m62217"/>
+        <col:module document="m62218"/>
+        <col:module document="m62219"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Normal Distributions</md:title>
+      <col:content>
+        <col:module document="m62222"/>
+        <col:module document="m62161"/>
+        <col:module document="m62220"/>
+        <col:module document="m50261"/>
+        <col:module document="m50264"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Central Limit Theorem</md:title>
+      <col:content>
+        <col:module document="m62223"/>
+        <col:module document="m62162"/>
+        <col:module document="m62163"/>
+        <col:module document="m50268"/>
+        <col:module document="m50269"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Confidence Intervals</md:title>
+      <col:content>
+        <col:module document="m62165"/>
+        <col:module document="m62170"/>
+        <col:module document="m62172"/>
+        <col:module document="m62199"/>
+        <col:module document="m62202"/>
+        <col:module document="m62203"/>
+        <col:module document="m50274"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Hypothesis Testing with One Sample</md:title>
+      <col:content>
+        <col:module document="m62224"/>
+        <col:module document="m62272"/>
+        <col:module document="m62295"/>
+        <col:module document="m62340"/>
+        <col:module document="m62314"/>
+        <col:module document="m62342"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Hypothesis Testing with Two Samples</md:title>
+      <col:content>
+        <col:module document="m62370"/>
+        <col:module document="m62373"/>
+        <col:module document="m62379"/>
+        <col:module document="m62380"/>
+        <col:module document="m50278"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Chi-Square Distribution</md:title>
+      <col:content>
+        <col:module document="m62506"/>
+        <col:module document="m62507"/>
+        <col:module document="m62510"/>
+        <col:module document="m62514"/>
+        <col:module document="m62515"/>
+        <col:module document="m62516"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Linear Regression and Correlation</md:title>
+      <col:content>
+        <col:module document="m47098"/>
+        <col:module document="m62394"/>
+        <col:module document="m62396"/>
+        <col:module document="m62444"/>
+        <col:module document="m62451"/>
+        <col:module document="m62505"/>
+        <col:module document="m62453"/>
+        <col:module document="m62497"/>
+        <col:module document="m62498"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m62378"/>
+    <col:module document="m47875"/>
+    <col:module document="m47873"/>
+    <col:module document="m47896"/>
+  </col:content>
+</col:collection>

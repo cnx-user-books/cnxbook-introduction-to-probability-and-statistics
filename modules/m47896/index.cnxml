@@ -8,7 +8,7 @@
   <md:uuid>d0ba1833-f0d2-4195-8765-3c436745f0fb</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
   <section id="fs-id15632468">
   <title>Quick Tips</title>
    <para id="fs-id14313746">
@@ -106,7 +106,7 @@ Both calculators: press <media id="fs-id4481246" display="inline" alt="2nd key">
     <section id="eip-367">
       <title>Manipulating One-Variable Statistics</title>
       <note id="builtinprogram"><label/><title>Note</title>
-<para id="eip-idp125210352">These directions are for entering data with the built-in statistical program.</para></note><table id="eip-886" summary="A table of sample data used throughout the rest of this section. The first column is data, while the second column represents the frequency of that data."><title>Sample Data We are manipulating one-variable statistics.</title>
+<para id="eip-idp125210352">These directions are for entering data with the built-in statistical program.</para></note><table id="eip-886" summary="A table of sample data used throughout the rest of this section. The first column is data, while the second column represents the frequency of that data."><title>Sample Data</title>
 <tgroup cols="2"><thead valign="top">
             <row>
               <entry align="center">Data</entry>
@@ -137,8 +137,7 @@ Both calculators: press <media id="fs-id4481246" display="inline" alt="2nd key">
           </tbody>
         
 
-
-</tgroup>
+</tgroup><caption>We are manipulating one-variable statistics.</caption>
 </table><para id="eip-653"><title>To begin:</title><list id="eip-idm14073664" list-type="enumerated" number-style="arabic"><item>
 <para id="fs-id15582062">Turn on the calculator.<newline/>
 <media id="fs-id14420511" display="inline" alt="on key">
