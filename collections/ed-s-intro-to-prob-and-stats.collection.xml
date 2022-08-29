@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Wendy Lightheart">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12133</md:content-id>
     <md:title>Ed's Intro to Prob and Stats</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>6248e945-af72-4e1c-943c-7eb1c0f15c65</md:uuid>
-<md:slug>ed-s-intro-to-prob-and-stats</md:slug>
-</metadata>
+    <md:slug>ed-s-intro-to-prob-and-stats</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Sampling and Data</md:title>
