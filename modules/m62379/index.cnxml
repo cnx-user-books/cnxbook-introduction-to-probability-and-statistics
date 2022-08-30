@@ -1342,7 +1342,7 @@ Does it appear that the proportion of Nevadans who are two or more races is high
     <solution id="fs-idm75362416">
       <list id="fs-idm11471360" list-type="enumerated" number-style="lower-alpha"><item><emphasis effect="italics">H<sub>0</sub></emphasis> : <m:math><m:mi>p</m:mi></m:math><sub>1</sub> = <m:math><m:mi>p</m:mi></m:math><sub>2</sub></item>
         <item><emphasis effect="italics">H<sub>a</sub></emphasis> : <m:math><m:mi>p</m:mi></m:math><sub>1</sub> ≠ <m:math><m:mi>p</m:mi></m:math><sub>2</sub></item>
-        <item><m:math display="">
+        <item><m:math>
  
   <m:msub>
    <m:mover accent="true">

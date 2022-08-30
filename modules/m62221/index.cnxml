@@ -47,7 +47,7 @@
 <definition id="fs-idm1048337488"><term>Cumulative Distribution Function</term><meaning id="fs-idm381875344">a function which gives the area under a curve and represents a probability.</meaning></definition>
 <definition id="fs-idm138335264">
 <term>Uniform Distribution</term>
-<meaning id="fs-idm102638224">a continuous random variable (RV) that has equally likely outcomes over the domain, <m:math><m:mi>a</m:mi></m:math> &lt; <m:math><m:mi>x</m:mi></m:math> &lt; <m:math><m:mi>b</m:mi></m:math>; it is often referred as the  <emphasis>rectangular distribution</emphasis> because the graph of the pdf has the form of a rectangle. Notation: <m:math><m:mi>X</m:mi></m:math> ~ <m:math><m:mi>U</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>)</m:mo></m:math>. The mean is <m:math><m:mi>μ</m:mi></m:math> = <m:math display="">
+<meaning id="fs-idm102638224">a continuous random variable (RV) that has equally likely outcomes over the domain, <m:math><m:mi>a</m:mi></m:math> &lt; <m:math><m:mi>x</m:mi></m:math> &lt; <m:math><m:mi>b</m:mi></m:math>; it is often referred as the  <emphasis>rectangular distribution</emphasis> because the graph of the pdf has the form of a rectangle. Notation: <m:math><m:mi>X</m:mi></m:math> ~ <m:math><m:mi>U</m:mi><m:mo>(</m:mo><m:mi>a</m:mi><m:mo>,</m:mo><m:mi>b</m:mi><m:mo>)</m:mo></m:math>. The mean is <m:math><m:mi>μ</m:mi></m:math> = <m:math>
 <m:mrow>
 <m:mfrac>
 <m:mrow>
@@ -57,7 +57,7 @@
 </m:mfrac>
 </m:mrow>
 </m:math>
-and the standard deviation is <m:math display="">
+and the standard deviation is <m:math>
 <m:mrow>
 <m:mi>σ</m:mi><m:mo>=</m:mo><m:msqrt>
 <m:mrow>
@@ -81,7 +81,7 @@ and the standard deviation is <m:math display="">
 </m:mrow>
 </m:msqrt>
 </m:mrow>
-</m:math>. The probability density function is <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> = <m:math display="">
+</m:math>. The probability density function is <m:math><m:mi>f</m:mi><m:mo>(</m:mo><m:mi>x</m:mi><m:mo>)</m:mo></m:math> = <m:math>
 <m:mrow>
 <m:mfrac>
 <m:mn>1</m:mn>
@@ -90,7 +90,7 @@ and the standard deviation is <m:math display="">
 </m:mrow>
 </m:mfrac>
 </m:mrow>
-</m:math> for <m:math><m:mi>a</m:mi></m:math> &lt; <m:math><m:mi>x</m:mi></m:math> &lt; <m:math><m:mi>b</m:mi></m:math> or <m:math><m:mi>a</m:mi></m:math> ≤ <m:math><m:mi>x</m:mi></m:math> ≤ <m:math><m:mi>b</m:mi></m:math>. The  cumulative distribution is <m:math><m:mi>P</m:mi><m:mo>(</m:mo><m:mi>X</m:mi></m:math> ≤ <m:math><m:mi>x</m:mi><m:mo>)</m:mo></m:math> = <m:math display="">
+</m:math> for <m:math><m:mi>a</m:mi></m:math> &lt; <m:math><m:mi>x</m:mi></m:math> &lt; <m:math><m:mi>b</m:mi></m:math> or <m:math><m:mi>a</m:mi></m:math> ≤ <m:math><m:mi>x</m:mi></m:math> ≤ <m:math><m:mi>b</m:mi></m:math>. The  cumulative distribution is <m:math><m:mi>P</m:mi><m:mo>(</m:mo><m:mi>X</m:mi></m:math> ≤ <m:math><m:mi>x</m:mi><m:mo>)</m:mo></m:math> = <m:math>
 <m:mrow>
 <m:mfrac>
 <m:mrow>
