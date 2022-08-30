@@ -1835,7 +1835,7 @@ Therefore, <m:math><m:mi>X</m:mi></m:math> ∼ <emphasis effect="italics">Exp</e
 <image mime-type="png/jpg" src="../../media/soln_04bF.jpg" print-width="3.5in" width="380"/>
 </media>
 </figure></item>
-<item>We want to find 0.70 <m:math display="">
+<item>We want to find 0.70 <m:math>
  <m:mrow>
   <m:mo>=</m:mo><m:mi>P</m:mi><m:mo stretchy="false">(</m:mo><m:mi>T</m:mi><m:mo>&gt;</m:mo><m:mi>t</m:mi><m:mo stretchy="false">)</m:mo><m:mo>=</m:mo><m:mn>1</m:mn><m:mo>–</m:mo><m:mrow><m:mo>(</m:mo>
    <m:mrow>
@@ -1864,7 +1864,7 @@ Therefore, <m:math><m:mi>X</m:mi></m:math> ∼ <emphasis effect="italics">Exp</e
   <m:mo>.</m:mo>
  </m:mrow>
 </m:math>
-<newline/>Solving for <m:math><m:mi>t</m:mi></m:math>, <m:math><m:mi>e</m:mi></m:math><sup><m:math display="">
+<newline/>Solving for <m:math><m:mi>t</m:mi></m:math>, <m:math><m:mi>e</m:mi></m:math><sup><m:math>
  <m:mrow>
   <m:mo>–</m:mo><m:mfrac>
    <m:mi>t</m:mi>
@@ -1872,7 +1872,7 @@ Therefore, <m:math><m:mi>X</m:mi></m:math> ∼ <emphasis effect="italics">Exp</e
   </m:mfrac>
   
  </m:mrow>
-</m:math></sup> = 0.70, so <m:math display="">
+</m:math></sup> = 0.70, so <m:math>
  <m:mrow>
   <m:mo>–</m:mo><m:mfrac>
    <m:mi>t</m:mi>
@@ -1905,7 +1905,7 @@ Therefore, <m:math><m:mi>X</m:mi></m:math> ∼ <emphasis effect="italics">Exp</e
    </m:msup>
    </m:mrow>
 </m:math>.
-<newline/>Solving for <m:math><m:mi>t</m:mi></m:math>, <m:math><m:mi>e</m:mi></m:math><sup><m:math display="">
+<newline/>Solving for <m:math><m:mi>t</m:mi></m:math>, <m:math><m:mi>e</m:mi></m:math><sup><m:math>
  <m:mrow>
   <m:mo>–</m:mo><m:mfrac>
    <m:mi>t</m:mi>
@@ -1913,7 +1913,7 @@ Therefore, <m:math><m:mi>X</m:mi></m:math> ∼ <emphasis effect="italics">Exp</e
   </m:mfrac>
   
  </m:mrow>
-</m:math></sup> = 0.98, so <m:math display="">
+</m:math></sup> = 0.98, so <m:math>
  <m:mrow>
   <m:mo>–</m:mo><m:mfrac>
    <m:mi>t</m:mi>

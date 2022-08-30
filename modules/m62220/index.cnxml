@@ -947,7 +947,7 @@ approximation.</item>
 </list>
 </problem>
 <solution id="eip-916">
-<list id="xeip" list-type="labeled-item"><item><m:math><m:mi>n</m:mi></m:math> = 190; <m:math><m:mi>p</m:mi></m:math> = <m:math display="">
+<list id="xeip" list-type="labeled-item"><item><m:math><m:mi>n</m:mi></m:math> = 190; <m:math><m:mi>p</m:mi></m:math> = <m:math>
  <m:mrow>
   <m:mfrac>
    <m:mn>1</m:mn>
